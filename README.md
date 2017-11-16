@@ -10,6 +10,10 @@ xcode shortcuts for the easy access for developers.
 
 <kbd>cmd</kbd> + <kbd>.</kbd> -- <b>Stop</b>
 
+<kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd> -- <b>Clean</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd> -- <b>Clean Build Folder</b>
+
 <kbd>cmd</kbd> + <kbd>U</kbd> -- <b>Unit Test</b>
 
 <kbd>cmd</kbd> + <kbd>I</kbd> -- <b>Instrument Profile</b>
