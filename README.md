@@ -57,6 +57,11 @@ xcode shortcuts for the easy access for developers.
 
 <kbd>cmd</kbd> + <kbd>9</kbd> -- <b>Report Navigator</b>
 
+## Source Control
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>,</kbd> -- <b>Commit</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>X</kbd> -- <b>Pull</b>
+
 ## Split Screens
 <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>option</kbd> + <kbd>,</kbd> -- <b>Split Screens</b>
 
