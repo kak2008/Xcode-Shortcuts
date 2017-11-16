@@ -36,6 +36,27 @@ xcode shortcuts for the easy access for developers.
 
 <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>j</kbd> -- <b>Show current file in Project Navigator</b>
 
+## Navigator
+<kbd>cmd</kbd> + <kbd>0</kbd> -- <b>Hide Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>1</kbd> -- <b>Project Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>2</kbd> -- <b>Source Control Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>3</kbd> -- <b>Symbol Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>4</kbd> -- <b>Find Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>5</kbd> -- <b>Issue Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>6</kbd> -- <b>Test Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>7</kbd> -- <b>Debug Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>8</kbd> -- <b>Breakpoint Navigator</b>
+
+<kbd>cmd</kbd> + <kbd>9</kbd> -- <b>Report Navigator</b>
+
 ## Split Screens
 <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>option</kbd> + <kbd>,</kbd> -- <b>Split Screens</b>
 
