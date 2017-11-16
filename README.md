@@ -10,19 +10,19 @@ xcode shortcuts for the easy access for developers.
 
 <kbd>cmd</kbd> + <kbd>.</kbd> -- <b>Stop</b>
 
-<kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd> -- <b>Clean</b>
-
-<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd> -- <b>Clean Build Folder</b>
-
 <kbd>cmd</kbd> + <kbd>U</kbd> -- <b>Unit Test</b>
 
 <kbd>cmd</kbd> + <kbd>I</kbd> -- <b>Instrument Profile</b>
 
 <kbd>cmd</kbd> + <kbd>Y</kbd> -- <b>Deactivate Breakpoints</b>
 
+<kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd> -- <b>Clean</b>
+
 <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>B</kbd> -- <b>Analyse</b>
 
 <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>2</kbd> -- <b>Devices and Simulators</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd> -- <b>Clean Build Folder</b>
 
 ## Editing
 <kbd>cmd</kbd> + <kbd>/</kbd> -- <b>Comment out code</b>
