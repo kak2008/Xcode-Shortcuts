@@ -31,15 +31,6 @@ xcode shortcuts for the easy access for developers.
 
 <kbd>cmd</kbd> + <kbd>click</kbd> -- <b>Look into code</b>
 
-## Navigation
-<kbd>cmd</kbd> + <kbd>F</kbd> -- <b>Find</b>
-
-<kbd>cmd</kbd> + <kbd>O</kbd> -- <b>Open</b>
-
-<kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>O</kbd> -- <b>Open quickly</b>
-
-<kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>j</kbd> -- <b>Show current file in Project Navigator</b>
-
 ## Navigator
 <kbd>cmd</kbd> + <kbd>0</kbd> -- <b>Hide Navigator</b>
 
@@ -60,6 +51,31 @@ xcode shortcuts for the easy access for developers.
 <kbd>cmd</kbd> + <kbd>8</kbd> -- <b>Breakpoint Navigator</b>
 
 <kbd>cmd</kbd> + <kbd>9</kbd> -- <b>Report Navigator</b>
+
+## Inspector
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>0</kbd> -- <b>Hide Inspector</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>1</kbd> -- <b>File Inspector</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>2</kbd> -- <b>Quick Help Inspector</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>3</kbd> -- <b>Identity Inspector</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>4</kbd> -- <b>Attributes Inspector</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>5</kbd> -- <b>Size Inspector</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>6</kbd> -- <b>Connections Inspector</b>
+
+## Navigation
+<kbd>cmd</kbd> + <kbd>F</kbd> -- <b>Find</b>
+
+<kbd>cmd</kbd> + <kbd>O</kbd> -- <b>Open</b>
+
+<kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>O</kbd> -- <b>Open quickly</b>
+
+<kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>j</kbd> -- <b>Show current file in Project Navigator</b>
 
 ## Source Control
 <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>,</kbd> -- <b>Commit</b>
