@@ -68,6 +68,15 @@ xcode shortcuts for the easy access for developers.
 
 <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>6</kbd> -- <b>Connections Inspector</b>
 
+## Library
+<kbd>shift</kbd> + <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>1</kbd> -- <b>File Template Library</b>
+
+<kbd>shift</kbd> + <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>2</kbd> -- <b>Code SnippetLibrary</b>
+
+<kbd>shift</kbd> + <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>3</kbd> -- <b>Object Library</b>
+
+<kbd>shift</kbd> + <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>4</kbd> -- <b>Media Library</b>
+
 ## Navigation
 <kbd>cmd</kbd> + <kbd>F</kbd> -- <b>Find</b>
 
