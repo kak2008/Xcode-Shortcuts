@@ -31,6 +31,10 @@ xcode shortcuts for the easy access for developers.
 
 <kbd>cmd</kbd> + <kbd>click</kbd> -- <b>Look into code</b>
 
+<kbd>cmd</kbd> + <kbd>Enter</kbd> -- <b>Show Standard Editor</b>
+
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>Enter</kbd> -- <b>Show Assistant Editor</b>
+
 ## Navigator
 <kbd>cmd</kbd> + <kbd>0</kbd> -- <b>Hide Navigator</b>
 
