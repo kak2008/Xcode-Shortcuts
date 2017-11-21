@@ -25,6 +25,10 @@ xcode shortcuts for the easy access for developers.
 <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>K</kbd> -- <b>Clean Build Folder</b>
 
 ## Editing
+<kbd>cmd</kbd> + <kbd>+</kbd> -- <b>Zoom In</b>
+
+<kbd>cmd</kbd> + <kbd>-</kbd> -- <b>Zoom Out</b>
+
 <kbd>cmd</kbd> + <kbd>/</kbd> -- <b>Comment out code</b>
 
 <kbd>cmd</kbd> + <kbd>\\</kbd> -- <b>Add Breakpoint</b>
