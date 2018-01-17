@@ -106,3 +106,10 @@ xcode shortcuts for the easy access for developers.
 <kbd>cmd</kbd> + <kbd>M</kbd> -- <b>Minimize</b>
 
 <kbd>cmd</kbd> + <kbd>shift</kbd> + <kbd>5</kbd> -- <b>Show Touch Bar</b>
+
+
+# Xcode-Finder-Shortcuts
+<kbd> ~/Library/Developer/Xcode/DerivedData </kbd> -- <b>Open Derived Data </b>
+
+<kbd> rm -rf ~/Library/Developer/Xcode/DerivedData </kbd> -- <b>Manually remove Derived Data </b>
+
