@@ -40,7 +40,7 @@ xcode shortcuts for the easy access for developers.
 <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>Enter</kbd> -- <b>Show Assistant Editor</b>
 
 ## Navigator
-<kbd>cmd</kbd> + <kbd>0</kbd> -- <b>Hide Navigator</b>
+<kbd>cmd</kbd> + <kbd>0</kbd> -- <b>Hide/Unhide Navigator</b>
 
 <kbd>cmd</kbd> + <kbd>1</kbd> -- <b>Project Navigator</b>
 
@@ -62,7 +62,7 @@ xcode shortcuts for the easy access for developers.
 
 ## Inspector
 
-<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>0</kbd> -- <b>Hide Inspector</b>
+<kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>0</kbd> -- <b>Hide/Unhide Inspector</b>
 
 <kbd>option</kbd> + <kbd>cmd</kbd> + <kbd>1</kbd> -- <b>File Inspector</b>
 
