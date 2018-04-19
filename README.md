@@ -113,3 +113,7 @@ xcode shortcuts for the easy access for developers.
 
 <kbd> rm -rf ~/Library/Developer/Xcode/DerivedData </kbd> -- <b>Manually remove Derived Data </b>
 
+# Xcode-website-Shortcuts
+## Colors
+[Convert hex decimal to RGB swift, objective c and Xamarin](http://uicolor.xyz/#/hex-to-ui)  
+
