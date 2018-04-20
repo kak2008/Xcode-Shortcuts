@@ -117,3 +117,5 @@ xcode shortcuts for the easy access for developers.
 ## Colors
 [Convert hex decimal to RGB swift, objective c and Xamarin](http://uicolor.xyz/#/hex-to-ui)  
 
+## Testing
+[Credit card generator](https://ccardgenerator.com/generat-visa-card-numbers.php) 
